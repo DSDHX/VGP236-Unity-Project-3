@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LCV2343873.LCIEDUCATION\\VGP236_3D_2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1DE91E75-F72F-5A0F-8469-20B0C94E7A5F}|Assembly-CSharp.csproj|c:\\users\\lcv2343873.lcieducation\\vgp236_3d_2\\assets\\script\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DE91E75-F72F-5A0F-8469-20B0C94E7A5F}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DE91E75-F72F-5A0F-8469-20B0C94E7A5F}|Assembly-CSharp.csproj|C:\\Users\\LCV2343873.LCIEDUCATION\\VGP236_3D_2\\assets\\script\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DE91E75-F72F-5A0F-8469-20B0C94E7A5F}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DE91E75-F72F-5A0F-8469-20B0C94E7A5F}|Assembly-CSharp.csproj|c:\\users\\lcv2343873.lcieducation\\vgp236_3d_2\\assets\\script\\switchcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DE91E75-F72F-5A0F-8469-20B0C94E7A5F}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\switchcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DE91E75-F72F-5A0F-8469-20B0C94E7A5F}|Assembly-CSharp.csproj|C:\\Users\\LCV2343873.LCIEDUCATION\\VGP236_3D_2\\assets\\script\\exittrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DE91E75-F72F-5A0F-8469-20B0C94E7A5F}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\exittrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DE91E75-F72F-5A0F-8469-20B0C94E7A5F}|Assembly-CSharp.csproj|C:\\Users\\LCV2343873.LCIEDUCATION\\VGP236_3D_2\\assets\\script\\enemychaserai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DE91E75-F72F-5A0F-8469-20B0C94E7A5F}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\enemychaserai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DE91E75-F72F-5A0F-8469-20B0C94E7A5F}|Assembly-CSharp.csproj|C:\\Users\\LCV2343873.LCIEDUCATION\\VGP236_3D_2\\assets\\script\\enemypatrolleai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DE91E75-F72F-5A0F-8469-20B0C94E7A5F}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\enemypatrolleai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DE91E75-F72F-5A0F-8469-20B0C94E7A5F}|Assembly-CSharp.csproj|C:\\Users\\LCV2343873.LCIEDUCATION\\VGP236_3D_2\\assets\\script\\enemywanderer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DE91E75-F72F-5A0F-8469-20B0C94E7A5F}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\enemywanderer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "C:\\Users\\LCV2343873.LCIEDUCATION\\VGP236_3D_2\\Assets\\Script\\GameManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\GameManager.cs",
+              "ToolTip": "C:\\Users\\LCV2343873.LCIEDUCATION\\VGP236_3D_2\\Assets\\Script\\GameManager.cs",
+              "RelativeToolTip": "Assets\\Script\\GameManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T05:16:09.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EnemyWanderer.cs",
+              "DocumentMoniker": "C:\\Users\\LCV2343873.LCIEDUCATION\\VGP236_3D_2\\Assets\\Script\\EnemyWanderer.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\EnemyWanderer.cs",
+              "ToolTip": "C:\\Users\\LCV2343873.LCIEDUCATION\\VGP236_3D_2\\Assets\\Script\\EnemyWanderer.cs",
+              "RelativeToolTip": "Assets\\Script\\EnemyWanderer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T04:55:02.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EnemyPatrolleAI.cs",
+              "DocumentMoniker": "C:\\Users\\LCV2343873.LCIEDUCATION\\VGP236_3D_2\\Assets\\Script\\EnemyPatrolleAI.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\EnemyPatrolleAI.cs",
+              "ToolTip": "C:\\Users\\LCV2343873.LCIEDUCATION\\VGP236_3D_2\\Assets\\Script\\EnemyPatrolleAI.cs",
+              "RelativeToolTip": "Assets\\Script\\EnemyPatrolleAI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T04:04:02.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EnemyChaserAI.cs",
+              "DocumentMoniker": "C:\\Users\\LCV2343873.LCIEDUCATION\\VGP236_3D_2\\Assets\\Script\\EnemyChaserAI.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\EnemyChaserAI.cs",
+              "ToolTip": "C:\\Users\\LCV2343873.LCIEDUCATION\\VGP236_3D_2\\Assets\\Script\\EnemyChaserAI.cs",
+              "RelativeToolTip": "Assets\\Script\\EnemyChaserAI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T03:46:00.001Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ExitTrigger.cs",
+              "DocumentMoniker": "C:\\Users\\LCV2343873.LCIEDUCATION\\VGP236_3D_2\\Assets\\Script\\ExitTrigger.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\ExitTrigger.cs",
+              "ToolTip": "C:\\Users\\LCV2343873.LCIEDUCATION\\VGP236_3D_2\\Assets\\Script\\ExitTrigger.cs",
+              "RelativeToolTip": "Assets\\Script\\ExitTrigger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T03:13:40.601Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SwitchController.cs",
+              "DocumentMoniker": "C:\\Users\\LCV2343873.LCIEDUCATION\\VGP236_3D_2\\Assets\\Script\\SwitchController.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\SwitchController.cs",
+              "ToolTip": "C:\\Users\\LCV2343873.LCIEDUCATION\\VGP236_3D_2\\Assets\\Script\\SwitchController.cs",
+              "RelativeToolTip": "Assets\\Script\\SwitchController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADsAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T01:23:29.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PlayerMovement.cs",
+              "DocumentMoniker": "C:\\Users\\LCV2343873.LCIEDUCATION\\VGP236_3D_2\\Assets\\Script\\PlayerMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\PlayerMovement.cs",
+              "ToolTip": "C:\\Users\\LCV2343873.LCIEDUCATION\\VGP236_3D_2\\Assets\\Script\\PlayerMovement.cs",
+              "RelativeToolTip": "Assets\\Script\\PlayerMovement.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T23:40:37.815Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
